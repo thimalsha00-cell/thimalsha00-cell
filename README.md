@@ -6,13 +6,17 @@ I recently completed my Higher Diploma in Cyber Security and love building secur
 
 
 -🌱**Education:** HD in Cyber Security | Diploma in IT and English
+
 -🔭**Looking for:** Entry level cyber security/ IT roles
+
 -✨**Award winner:** Championship for the "IoT based smart Bike Anti Theft System" project
+
 -📫**How to reach me:** thimalsha00@gmail.com | https://www.linkedin.com/in/thimalsha-bandara-67073526a/
 
 ---
 ###⚡**Tech Skills**
 **Networking and security:** Network Defense, Threat analysis, Wireshark, Linux(Kali)
+
 **IoT and Hardware:** Smart security systems, Microcontrollers
 
 ###⚡Core Skills
