@@ -1,5 +1,5 @@
 ## Hi there, I'm Thimalsha!👋
-###Cyber Security Undergraduate 
+### Cyber Security Undergraduate 
 
 
 I recently completed my Higher Diploma in Cyber Security and love building secure tech solutions!
@@ -14,13 +14,13 @@ I recently completed my Higher Diploma in Cyber Security and love building secur
 -📫**How to reach me:** thimalsha00@gmail.com | https://www.linkedin.com/in/thimalsha-bandara-67073526a/
 
 ---
-###⚡**Tech Skills**
+### ⚡**Tech Skills**
 **Networking and security:** Network Defense, Threat analysis, Wireshark, Linux(Kali)
 
 **IoT and Hardware:** Smart security systems, Microcontrollers
 
-###⚡Core Skills
-Problem solving, Technical communication, Incidence response
+### ⚡Core Skills
+**Problem solving**, **Technical communication**, **Incidence response**
 ---
 *✨"Securing the future, one node at a time"✨*
 <!--
